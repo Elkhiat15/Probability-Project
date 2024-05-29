@@ -3,9 +3,9 @@
 
 This is a data science project that focuses on predicting employee turnover using statistical analysis and machine learning algorithms. The goal is to develop a model that can accurately predict the probability of employees quitting their jobs and acts as **Early Warning System**, allowing the company to take proactive measures to retain valuable talent.
 
-### please check my updates on this project as I deployed it as a [web app](https://retainradar-fafvmavjduenrv58dfnrtk.streamlit.app/), also check the [streamlit code](https://github.com/Elkhiat15/RetainRadar)
+### please check my updates on this project as I deployed it as a [web app](https://retainradar-fafvmavjduenrv58dfnrtk.streamlit.app/), check up the [streamlit code](https://github.com/Elkhiat15/RetainRadar)
 
-also check my [code on Kaggle](https://www.kaggle.com/code/mohammedelkhiat/ibm-hr-statistical-analysis-dashboard) and UPVOTE if you find it insightful.   
+also check my [code on Kaggle](https://www.kaggle.com/code/mohammedelkhiat/ibm-hr-statistical-analysis-dashboard) and **UPVOTE** if you find it insightful.   
 
 ## Dataset
 
